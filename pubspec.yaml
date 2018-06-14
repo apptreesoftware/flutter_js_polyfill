@@ -1,8 +1,11 @@
 name: flutter_js_polyfill
 description: Flutter polyfills for dart:js APIs
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/apptreesoftware/flutter_js_polyfill
 author: John Ryan <john.p.ryan4@gmail.com>
+
+dependencies:
+  js: any
 
 environment:
   sdk: '>=1.20.1 <2.0.0'
